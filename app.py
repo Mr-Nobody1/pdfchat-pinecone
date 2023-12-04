@@ -21,7 +21,7 @@ usr_input = st.text_input('What is your question?')
 
 # Set OpenAI LLM and embeddings
 llm_chat = ChatOpenAI(temperature=0.9, max_tokens=150,
-                      model='gpt-3.5-turbo-0613', client='')
+                      model='gpt-4-1106-preview', client='')
 
 embeddings = OpenAIEmbeddings(client='')
 
