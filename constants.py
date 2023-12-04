@@ -1,1 +1,1 @@
-PINECONE_INDEX_NAME = 'pdflover'
+PINECONE_INDEX_NAME = 'chatbot-v1'
