@@ -5,3 +5,4 @@ tiktoken==0.4.0
 streamlit==1.24.1
 pinecone-client==2.2.2
 unstructured==0.8.1
+streamlit_chat
